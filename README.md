@@ -12,3 +12,19 @@ I will note that there are three keymaps in this config that do *completely rema
     - The *Home* key is remapped to *Previous/last Multimedia*.
     - The *Insert* key is remapped to *Next/Skip Multimedia.*
 This is simply because I never use those keys, and wanted baked in music control.
+
+
+## Dependencies
+If you still want to copy the config, these are the apps used in the binds
+- kitty (terminal)
+- nemo & yazi(file browser)
+- grim & slurp (screenshots)
+- firefox
+- vesktop (discord)
+- spotify
+- hyprpicker
+- hyprpaper
+- fish
+- obsidian
+- mako
+- waybar
